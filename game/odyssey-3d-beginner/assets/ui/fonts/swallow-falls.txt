@@ -1,0 +1,6 @@
+Swallow Falls Regular, by Zack VerVynck.
+The zip from dafont (swallow_falls) contained Swallow Falls.ttf and Swallow Falls Italic.ttf and no readme.
+FontZillion, FontGet, and BlogFonts list this face as free for personal and commercial use, with redistribution allowed.
+This game embeds the regular file for Latin display lettering only.
+Arabic uses Cairo and Lalezar under the SIL Open Font License (see OFL.txt).
+Numbers, equations, and small reading text use Cairo so they stay readable.

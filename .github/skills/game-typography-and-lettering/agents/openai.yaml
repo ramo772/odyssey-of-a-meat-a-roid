@@ -1,0 +1,4 @@
+interface:
+  display_name: "Game Typography and Lettering"
+  short_description: "Design readable, distinctive game typography"
+  default_prompt: "Use $game-typography-and-lettering to define a readable typography and lettering system for this game."

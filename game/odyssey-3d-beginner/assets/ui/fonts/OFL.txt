@@ -1,0 +1,4 @@
+Fredoka, Cairo, and Lalezar are used under the SIL Open Font License.
+Files were taken from the Fontsource CDN builds of the Google Fonts releases.
+Fredoka is the Latin display and interface face. Lalezar is the Arabic display face.
+Cairo is the Arabic reading face. They are original typefaces, not a film logo.

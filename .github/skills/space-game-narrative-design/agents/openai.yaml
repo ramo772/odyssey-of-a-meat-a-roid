@@ -1,0 +1,4 @@
+interface:
+  display_name: "Space Game Narrative Design"
+  short_description: "Shape space-game story around player decisions"
+  default_prompt: "Use $space-game-narrative-design to connect this space-game story beat to the playable journey."

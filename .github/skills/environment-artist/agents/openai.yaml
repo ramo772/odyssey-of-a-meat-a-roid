@@ -1,0 +1,4 @@
+interface:
+  display_name: "Environment Artist"
+  short_description: "Build modular game-ready Blender environments"
+  default_prompt: "Use $environment-artist to plan a modular, performant environment for this game."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Blender TextureCraft Game Pipeline"
+  short_description: "Prepare game-ready Blender and PBR assets"
+  default_prompt: "Use $blender-texturecraft-game-pipeline to plan and validate this asset from Blender through the game runtime."

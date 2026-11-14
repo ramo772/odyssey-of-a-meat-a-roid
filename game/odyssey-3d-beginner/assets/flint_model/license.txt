@@ -1,0 +1,11 @@
+Model Information:
+* title:	Flint Lockwood Rigged
+* source:	https://sketchfab.com/3d-models/flint-lockwood-rigged-27ab8859c8c1415290bc06f4c2e43b8f
+* author:	Guilherme Navarro (https://sketchfab.com/guinavarro.al)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Flint Lockwood Rigged" (https://sketchfab.com/3d-models/flint-lockwood-rigged-27ab8859c8c1415290bc06f4c2e43b8f) by Guilherme Navarro (https://sketchfab.com/guinavarro.al) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
